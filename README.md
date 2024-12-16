@@ -1,2 +1,3 @@
 # My study notes
- My study notes based on my private __understanding. Maybe it's wrong,  but that's not a good enough reason to let me to update it. I will update it in a fixed time --  every time i want to update it
+
+Here are my study notes based on my private __understanding. Maybe they are wrong, but that's not a good enough reason to let me to update them. I will update them in a fixed time --  every time i want to update them
